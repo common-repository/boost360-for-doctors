@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .welcome_text{
+     font-weight: 300;
+     font-size: 1.2rem;
+     line-height: 2.3rem;
+ }
+ 
+ .welcome_sub_text{
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 2rem;
+}
+ .script_area{
+    font-family: monospace;
+    font-size: 1rem;
+    width: 90%;
+    max-width: 40rem;
+}
